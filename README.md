@@ -23,15 +23,23 @@ Nathack - программа на термукс, которая поможет 
 **Что будет в след. Обновлениях:**
 
 1. Сделаем пробив по номеру телефона.
-2. Сделаем поддержку термукса
+   
+3. Сделаем поддержку термукса
 
 **Установка:** 
+
 Termux:
+
 pkg install python3
+
 pkg install git
+
 git clone https://github.com/Natnoni1/Natnoni1
+
 cd Natnoni1
+
 python3 Nathack.py
+
 
 Установите питон(версия: 3) . Установите архив и откройте Nathack.py
 
