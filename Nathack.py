@@ -1,3 +1,7 @@
+import urllib.request
+import json
+import os
+
 login = input('Введите логин: ')
 if login == '0':
     print('Логин правильный. Спасибо за покупку программы!')
